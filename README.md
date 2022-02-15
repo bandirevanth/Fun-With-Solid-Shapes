@@ -1,2 +1,2 @@
-# Fun-With-Solid-Shapes
+# Fun With Solid Shapes
 Inspired by Dillon @Dillo.
